@@ -31,6 +31,8 @@ typedef double dl;
 #define right(node) (node * 2 + 1)
 #define mx_int_prime 999999937
 //getline(cin,str);
+// cout<<__builtin_popcount(16)<<endl;
+// cout<<bitset<10>(15).to_string()<<endl;
 
 const double PI = acos(-1);
 const double eps = 1e-9;
